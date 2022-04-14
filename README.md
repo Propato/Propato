@@ -11,4 +11,4 @@
 - 👀 Estou interessado em começar um Estágio onde poderei aumentar meus conhecimentos de programação e aplica-los.
 
 - 📫 Contato:
--   davidc.estudos@gmail.com
+  - davidc.estudos@gmail.com
