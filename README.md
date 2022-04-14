@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou David -> @Propato:
-  Tenho 20 anos e sou do ES.
-  Estudante de Engenharia da Computação na UFES e aluno do PICME.
+  - Tenho 20 anos e sou do ES.
+  - Estudante de Engenharia da Computação na UFES e aluno do PICME.
   
 - Linguagens de Programação 🤖:
   - C/C++
@@ -11,4 +11,4 @@
 - 👀 Estou interessado em começar um Estágio onde poderei aumentar meus conhecimentos de programação e aplica-los.
 
 - 📫 Contato:
-  davidc.estudos@gmail.com
+-   davidc.estudos@gmail.com
