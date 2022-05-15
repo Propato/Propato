@@ -12,3 +12,4 @@
 
 - 📫 Contato:
   - davidc.estudos@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/david-propato-ab2694220/
