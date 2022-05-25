@@ -8,7 +8,7 @@
   - C/C++
   - Java (com foco em POO)
   - Python (trabalhando também com sua integração com o Excel)
-  - E planos de estudar SQL e JavaScript
+  - E planos de estudar desenvolvimento web e banco de dados com SQL
 
 - 📫 Contato:
   - davidc.estudos@gmail.com
