@@ -6,7 +6,7 @@
  
 - 🤖 Linguagens de Programação:
   - C/C++
-  - Java (com foco em POO)
+  - Java
   - Python (trabalhando também com sua integração com o Excel)
   - E planos de estudar desenvolvimento web e banco de dados com SQL
 
