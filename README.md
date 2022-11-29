@@ -8,7 +8,8 @@
   - C/C++
   - Java
   - Python (trabalhando também com sua integração com o Excel)
-  - E planos de estudar desenvolvimento web e banco de dados com SQL
+  - Desenvolvimento Web
+  - Banco de dados com SQL
 
 - 📫 Contato:
   - davidc.estudos@gmail.com
