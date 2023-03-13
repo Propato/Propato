@@ -37,9 +37,9 @@
 ## Contact me :calling:
  
 <div align="center"> 
-  <a href ="https://www.instagram.com/david.propato/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:david123propato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href ="https://www.linkedin.com/in/david-propato-ab2694220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href ="https://www.instagram.com/david.propato/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp
+  <a href ="mailto:david123propato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp
+  <a href ="https://www.linkedin.com/in/david-propato-ab2694220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp
   <a href ="https://wa.me/5527998661654?text=Hi,+I+found+your+number+on+GitHub+and+I+am+interested+in+your+work.+Can+we+talk%3F" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25C366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
