@@ -49,6 +49,8 @@
   <a href ="#" target="_blank">Curriculum Vitae</a>
   ·
   <a href ="#" target="_blank">Letter of introduction</a>
+  ·
+  <a href ="#" target="_blank">Letter of introduction</a>
 </div>
 
 <div align="center">
