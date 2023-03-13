@@ -63,7 +63,6 @@
   <a href="https://www.linkedin.com/in/david-propato-ab2694220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5527998661654?text=Ol%C3%A1%21+Encontrei+seu+n%C3%BAmero+no+Github+e+me+interessei+pelo+seu+trabalho.+Podemos+conversar%3F" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
-  ![Snake animation]()
-  
+  ![Snake animation](https://github.com/Propato/Propato/blob/output/github-contribution-grid-snake.svg)
 
 </div>
