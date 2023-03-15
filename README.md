@@ -2,8 +2,8 @@
 
  <div align="center">
    <a href="https://github.com/Propato">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Propato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Propato&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Propato&show_icons=true&theme=tokyonight&count_private=true&hide=stars"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Propato&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block" align="center">
@@ -35,7 +35,7 @@
   <img alt="Icone Raspberry Pi" title="Raspberry Pi" height="60" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original.svg">
 </div>
  
-## Contact me :calling:
+## Aboute me
  
 <div align="center"> 
   <a href ="https://www.instagram.com/david.propato/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp
@@ -44,7 +44,7 @@
   <a href ="https://wa.me/5527998661654?text=Hi,+I+found+your+number+on+GitHub+and+I+am+interested+in+your+work.+Can+we+talk%3F" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25C56c?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-## Aboute me
+##
 
 <div align="center"> 
   <a href ="https://drive.google.com/file/d/1Ae8TMxqkFVMkR-1U5_mnI-SGi_oanoLb/view?usp=share_link" target="_blank">Curriculum Vitae</a>
