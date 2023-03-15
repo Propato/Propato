@@ -60,10 +60,4 @@
 
 <div align="center">
   <img src="https://github.com/Propato/Propato/blob/output/github-contribution-grid-snake.svg" alt="Snake eating the commits">
-
-___
-
-  <img height="30em" src="https://komarev.com/ghpvc/?username=Propato5&color=25C67c&style=flat&label=Profile+Views" alt="Profile Views"/>
-  <br>
-  <img align="center" alt="Tux Coding" height="100px" width="100px" src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif">
 </div>
