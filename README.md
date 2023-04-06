@@ -27,7 +27,6 @@
   <img alt="Icone VSCode" title="VSCode" height="60" src="https://user-images.githubusercontent.com/84464307/224509816-11ec8ace-5546-4664-88f9-c759f4b57b73.svg">
   <img alt="Icone WSL" title="Subsistema Windows para Linux" height="60" src="https://user-images.githubusercontent.com/84464307/224509875-d626ebb5-6c2b-4c1d-bdbe-7eb7dcf01458.png">
   <img alt="Icone Git" title="Git" height="60" src="https://user-images.githubusercontent.com/84464307/224510001-3e60f54c-2a0a-4ae9-bee6-f5b10df9ecf1.svg">
-  <img alt="Icone Github" title="Github" height="60" src="https://user-images.githubusercontent.com/84464307/224510236-b9d8e5aa-25aa-4008-9491-99cf8bb7b532.png">
 
  <br>
 
