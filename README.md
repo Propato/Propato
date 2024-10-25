@@ -44,8 +44,8 @@
   <a href ="https://wa.me/5527998661654?text=Hi,+I+found+your+number+on+GitHub+and+I+am+interested+in+your+work.+Can+we+talk%3F" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25C56c?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
+<!--
 ##
-
 <div align="center"> 
   <a href ="https://drive.google.com/file/d/1Ae8TMxqkFVMkR-1U5_mnI-SGi_oanoLb/view?usp=share_link" target="_blank">Curriculum Vitae</a>
   ·
@@ -61,3 +61,4 @@
 <div align="center">
   <img src="https://github.com/Propato/Propato/blob/output/github-contribution-grid-snake.svg" alt="Snake eating the commits">
 </div>
+-->
