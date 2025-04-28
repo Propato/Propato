@@ -50,8 +50,8 @@
 
 <div align="center">
   <h2>Featured Projects</h2>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Propato&repo=my-skoob&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Propato&repo=to-do-list&theme=tokyonight"/>
+  <a href="https://github.com/Propato/my-skoob"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Propato&repo=my-skoob&theme=tokyonight"/></a>
+  <a href="https://github.com/Propato/to-do-list"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Propato&repo=to-do-list&theme=tokyonight"/></a>
 </div>
 
 <!--
