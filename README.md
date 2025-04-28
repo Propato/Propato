@@ -21,7 +21,7 @@
   
   <img alt="Icone Docker" title="Docker" height="70" src="https://github.com/user-attachments/assets/0891069d-fc42-4c45-8cb9-5ff9ba6db0ad">
   <img alt="Icone Bootstrap" title="Bootstrap" height="70" src="https://github.com/user-attachments/assets/5bc9d78a-af3d-4d50-aabf-91db45da859f">
-  <img alt="Icone Selenium" title="Selenium" height="70" src="https://github.com/user-attachments/assets/4c867c40-75fd-4d20-ad0f-ba3fb134921a">
+  <img alt="Icone Selenium" title="Selenium" height="65" src="https://github.com/user-attachments/assets/4c867c40-75fd-4d20-ad0f-ba3fb134921a">
   <img alt="Icone Git" title="Git" height="70" src="https://user-images.githubusercontent.com/84464307/224510001-3e60f54c-2a0a-4ae9-bee6-f5b10df9ecf1.svg">
 
   <!-- <img alt="Icone Arduino" title="Arduino" height="60" src="https://user-images.githubusercontent.com/84464307/224510603-775b30db-023f-45f9-bf56-42822cacb603.svg"> -->
